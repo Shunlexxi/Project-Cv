@@ -1,0 +1,117 @@
+.intro{
+    background-color:#2F5A78;
+    padding:none;
+}
+
+.heading{
+    font-size:25px;
+    font-weight:bolder;
+    color:white;
+    text-transform:uppercase ;
+    padding-left:16px;
+}
+
+.prof{
+    font-size:20px;
+    font-weight:lighter;
+    color:white;
+    padding-left:16px;
+}
+
+.summary{
+    font-size:16px;
+    font-weight:normal ;
+    color:white;
+    padding-left:16px;
+    padding-top:8px;
+    padding-bottom:4px;
+}
+
+.contactt{
+    color:#2F5A78;
+    text-decoration:underline;
+    font-weight:bolder;
+    text-transform:uppercase;
+}
+
+.contactinfo{
+    font-family:sans-serif;
+    font-size:16px;
+    padding-left:16px;
+    background-color:#eee;
+    padding-right:3px;
+    padding-bottom:4px;
+}
+
+.edulist .school{
+    font-weight: bold;
+    color: #2F5A78;
+    justify-content:space-between;
+}
+
+.edulist .qualification{
+    justify-content:space-between;
+}
+
+.subheading{
+    color:#2F5A78;
+    text-decoration:underline;
+    font-weight:bolder;
+    text-transform:uppercase;
+    padding-left:16px;
+}
+
+
+.hobbies{
+    padding-left: 16px;
+}
+
+.referees{
+    padding-left: 16px;
+}
+
+.data{
+    text-align:right;
+}
+
+img{
+    float:right;
+}
+
+.icon{
+    color:#2F5A78;
+    float:left;
+}
+
+.jobtitle{
+    font-weight:bold;
+    justify-content:space-between;
+}
+
+.skills ul li{
+    display: flex;
+    margin-bottom: 10px;
+    justify-content:space-between;
+    align-items: center ;
+    margin-left: -15px;
+}
+
+.skills ul li .skill_prog{
+    width: 50%;
+    height: 5px;
+    position: relative;
+}
+.skills ul li .skill_prog span{
+    position: absolute;
+    height: 100%;  
+    background: #2F5A78;
+    padding-right: 50px;
+}
+
+.skill_name{
+    width: 4px;
+}
+.skill_per{
+    margin-right: 15px;
+}
+
