@@ -25,6 +25,7 @@
     padding-left:16px;
     padding-top:8px;
     padding-bottom:4px;
+    margin-top: 10px;
 }
 
 .contactt{
@@ -80,7 +81,6 @@ img{
 
 .icon{
     color:#2F5A78;
-    float:left;
 }
 
 .jobtitle{
@@ -89,6 +89,9 @@ img{
     color:#2F5A78;
 }
 
+.skills{
+    font-size: 16px;
+}
 .skills ul li{
     display: flex;
     margin-bottom: 10px;
@@ -116,3 +119,7 @@ img{
     margin-right: 15px;
 }
 
+.social{
+    padding: 10px;
+    float: left;
+}
