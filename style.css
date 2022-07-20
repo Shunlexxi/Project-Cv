@@ -132,6 +132,18 @@ img{
 
 }
 
-.footer{
+footer{
     background-color: #2F5A78;
+    font-size:16px;
+    text-align: center;
+    color:#eee
+}
+
+footer a{
+    color:#eee
+}
+
+footer a:hover{
+    text-decoration: none;
+    color: #fff;
 }
